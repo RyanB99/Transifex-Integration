@@ -1,0 +1,15 @@
+{
+    "join": "Join",
+    "nest": {
+      "split": "Split",
+      "another_nest": {
+        "split": "Split"
+      },
+    "list": ["List", "Values", {"JSON": {"Embedded": "Document"}}]
+    },
+    "files": "{count, plural, one {{count} file.} other {{count} files.}}",
+    "posts.replies.load.more": "{count, plural, one {{count} more reply} other {{count} more replies}}",
+    "login": "Login",
+    "actor.male": "Actor",
+    "actor.female":"Actress"
+}
