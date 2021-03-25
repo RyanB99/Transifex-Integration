@@ -1,0 +1,12 @@
+{
+  "Unicode_escape_sequence": "\u03C4\u03BF\u03C0\u03B9\u03BA\u03BF\u03C0\u03BF\u03B9\u03B7\u03C3\u03B7",
+  "double_escaped_unicode_sequence": "\\u03C4\\u03BF\\u03C0\\u03B9\\u03BA\\u03BF\\u03C0\\u03BF\\u03B9\\u03B7\\u03C3\\u03B7",
+  "escaped_double_quotes": "that is \"fine\"",
+  "escaped_baskslash": "\/",
+  "backspace": "a\bb",
+  "formfeed": "a\fb",
+  "newline": "a\nb",
+  "carriage_return": "a\rb",
+  "horizontal_tab": "a\tb",
+  "unescaped_backslash": "a/b"
+}

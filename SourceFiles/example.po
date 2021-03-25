@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Pitchup.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-01 19:10+0100\n"
+"PO-Revision-Date: 2015-04-01 18:11+0000\n"
+"Last-Translator: pitchupadmin\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/pitchupcom/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: forms.py:189
+#, python-format
+msgid "%s country code"
+msgstr "%s country code"
+
+#. translators: %s for product quantity, e.g. 1 product and 2 products. \n \n I want this to be a long note that wraps around in the translation editor.
+#: includes/widgets/class-wc-widget-product-tag-cloud.php:86
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s product"
+msgstr[1] "%s products"
+
+msgid "%d Date"
+msgstr "%d Date"
+
+msgid "%n Name"
+msgstr "%n Name"
+
+msgctxt "Not A Greeting"
+msgid "duplicate1"
+msgstr "duplicate"
+
+msgctxt "Greeting"
+msgid "duplicate2"
+msgstr "duplicate"
+
+msgid "actor.male"
+msgstr "actor"
+
+msgid "actor.female"
+msgstr "actress"
+
+msgid "vacation"
+msgstr "vacation"
+
+msgid "airplane"
+msgstr "airplane"
+
+msgid "help"
+msgstr "help"
+
+msgid "tmx"
+msgstr "Plus free 2 TB hard drive, worth €xx!"
