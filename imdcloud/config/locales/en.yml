@@ -1,0 +1,16 @@
+en:
+  inbox: {
+    one: 'one message',
+    other: '%{count} messages'
+  }
+  home:
+  header:
+    tv: "Global TV"
+    movies: Movies
+    music: Music
+    news: News
+    genre: Genres
+    artist: Artists
+    country: Countries
+    explore: Explore
+    celebrities: Celebrities
