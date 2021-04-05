@@ -1,4 +1,4 @@
-en:
+en_US:
   inbox: {
     one: 'one message',
     other: '%{count} messages'
