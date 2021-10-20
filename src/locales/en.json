@@ -1,0 +1,81 @@
+{
+  "deliveriescontainer": {
+    "errorRetrievingDeliveries": "Error retrieving deliveries",
+    "loadingDeliveries": "Loading deliveries ..."
+  },
+  "delivery": {
+    "yourNextDelivery": "Your next delivery",
+    "update": "Update",
+    "yourDeliveriesArePaused": "Your deliveries are paused",
+    "yourDeliveriesAreCancelled": "Your deliveries are cancelled",
+    "problemWithLatestPayment": "There's a problem with your latest payment",
+    "deliveryWindow": "Delivery window",
+    "deliveryStatus": "Delivery status",
+    "scheduled": "Scheduled",
+    "preparing": "Preparing",
+    "paymentComplete": "Payment complete",
+    "dispatched": "Dispatched",
+    "paymentPending": "Payment pending",
+    "lastDateForChanges": "Last date for changes",
+    "unavailable": "Unavailable",
+    "paymentDate": "Payment date",
+    "changeDeliveryDate": "Change delivery date",
+    "addProducts": "Add products",
+    "get10Off": "Get £10 off",
+    "payment": "Payment",
+    "preparation": "Preparation",
+    "delivery": "Delivery",
+    "viewDetails": "View details",
+    "haveYouReceived": "Have you received this delivery?",
+    "yesReceived": "Yes, I've received it",
+    "notYet": "Not yet",
+    "wouldLikeRestart": "Would you like to restart { petName }'s deliveries?",
+    "updateRestart": "Update and restart",
+    "wouldLikeResume": "Would you like to resume { petName }'s deliveries?",
+    "updateResume": "Update and resume",
+    "orderOnWayTrack": "Your order is on its way. You can track its progress <a :href=\"trackingURL\">here.</a>",
+    "orderOnWay": "Your order is on its way.",
+    "needHelp": "Need help?",
+    "contactUs": "Contact us",
+    "sorrySomethingWrong": "Sorry, something went wrong."
+  },
+  "navbar": {
+    "dashboard": " Dashboard",
+    "deliveries": "Deliveries",
+    "feedingPlan": " Feeding Plan",
+    "shop": " Shop"
+  },
+  "quicklinks": {
+    "quickLinks": "Quick links"
+  },
+  "welcomecustomer": {
+    "welcomeToYour": "Welcome to your dashboard, {1}!",
+    "youAreA": "You are a customer in cohort "
+  },
+  "petscontainer": {
+    "updateProfile": "Update profile",
+    "loadingPets": "Loading Pets..."
+  },
+  "rafbox": {
+    "shareTailscomWith": "Share tails.com with friends and get £10 off",
+    "findOutMore": "Find out more"
+  },
+  "feedingplanscontainer": {
+    "errorRetrievingFeedingPlan": "Error retrieving Feeding Plan",
+    "loadingFeedingPlans": "Loading Feeding Plans ..."
+  },
+  "feedingplan": {
+    "dailyDryFood": "Daily dry food",
+    "useSetting": "Use setting",
+    "dailyWetFood": "Daily wet food",
+    "updateFlavoursTextures": "Update flavours & textures",
+    "updateAmount": "Update amount",
+    "petDoesntGetWetFood": "{ petName } doesn't get tails.com wet food right now",
+    "update": "Update",
+    "viewFullFeedingPlan": "View full feeding plan",
+    "feedingPlan": "Feeding plan",
+    "orderWetFoodOnly": "Order wet food only",
+    "dryScoopsPerDay": "{n} scoop per day | {n} scoops per day",
+    "wetTraysPerDay": "{n} wet tray per day | {n} wet trays per day"
+  }
+}
