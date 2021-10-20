@@ -1,0 +1,81 @@
+{
+  "deliveriescontainer": {
+    "errorRetrievingDeliveries": "Error al recuperar las entregas",
+    "loadingDeliveries": "Cargando entregas ..."
+  },
+  "delivery": {
+    "yourNextDelivery": "Tu próxima entrega",
+    "update": "Actualizar",
+    "yourDeliveriesArePaused": "Tus entregas están en pausa",
+    "yourDeliveriesAreCancelled": "Tus entregas están canceladas",
+    "problemWithLatestPayment": "Hay un problema con su último pago",
+    "deliveryWindow": "Ventana de entrega",
+    "deliveryStatus": "Estado de entrega",
+    "scheduled": "Programado",
+    "preparing": "Preparando",
+    "paymentComplete": "Pago completo",
+    "dispatched": "Enviado",
+    "paymentPending": "Pago pendiente",
+    "lastDateForChanges": "Última fecha para cambios",
+    "unavailable": "Indisponible",
+    "paymentDate": "Fecha de pago",
+    "changeDeliveryDate": "Cambiar fecha de entrega",
+    "addProducts": "Agregar productos",
+    "get10Off": "Obtenga £ 10 de descuento",
+    "payment": "Pago",
+    "preparation": "Preparación",
+    "delivery": "Entrega",
+    "viewDetails": "Ver detalles",
+    "haveYouReceived": "¿Ha recibido esta entrega?",
+    "yesReceived": "Si lo he recibido",
+    "notYet": "Todavía no",
+    "wouldLikeRestart": "¿Le gustaría reiniciar las entregas de {petName,}?",
+    "updateRestart": "Actualizar y reiniciar",
+    "wouldLikeResume": "¿Le gustaría reanudar las entregas de {petName,}?",
+    "updateResume": "Actualizar y reanudar",
+    "orderOnWayTrack": "Su pedido está en camino. Puedes seguir su progreso <a :href=\"trackingURL\">aquí.</a>",
+    "orderOnWay": "Su pedido está en camino.",
+    "needHelp": "¿Necesitas ayuda?",
+    "contactUs": "Contáctenos",
+    "sorrySomethingWrong": "Perdón, algo salió mal."
+  },
+  "navbar": {
+    "dashboard": "Tablero",
+    "deliveries": "Entregas",
+    "feedingPlan": "Plan de alimentación",
+    "shop": "Tienda"
+  },
+  "quicklinks": {
+    "quickLinks": "Enlaces rápidos"
+  },
+  "welcomecustomer": {
+    "welcomeToYour": "¡Bienvenido a tu panel, {1}!",
+    "youAreA": "Eres un cliente de la cohorte"
+  },
+  "petscontainer": {
+    "updateProfile": "Actualización del perfil",
+    "loadingPets": "Cargando Mascotas ..."
+  },
+  "rafbox": {
+    "shareTailscomWith": "Comparte tails.com con amigos y obtén £ 10 de descuento",
+    "findOutMore": "Saber más"
+  },
+  "feedingplanscontainer": {
+    "errorRetrievingFeedingPlan": "Error al recuperar el plan de alimentación",
+    "loadingFeedingPlans": "Cargando planes de alimentación ..."
+  },
+  "feedingplan": {
+    "dailyDryFood": "Alimento seco diario",
+    "useSetting": "Usar ajuste",
+    "dailyWetFood": "Comida húmeda diaria",
+    "updateFlavoursTextures": "Actualizar sabores y texturas",
+    "updateAmount": "Cantidad de actualización",
+    "petDoesntGetWetFood": "{petName,} no recibe comida húmeda de tails.com en este momento",
+    "update": "Actualizar",
+    "viewFullFeedingPlan": "Ver plan de alimentación completo",
+    "feedingPlan": "Plan de alimentación",
+    "orderWetFoodOnly": "Pida solo comida húmeda",
+    "dryScoopsPerDay": "{n} primicia por día | {n} cucharadas por día",
+    "wetTraysPerDay": "{n} bandeja húmeda por día | {n} bandejas húmedas por día"
+  }
+}
