@@ -1,2 +1,0 @@
-# Transifex-Integration
-Onboarding exercise
