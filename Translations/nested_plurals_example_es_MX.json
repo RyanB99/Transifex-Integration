@@ -1,0 +1,60 @@
+{
+   "string_cars":{
+      "string":"{num_cars, plural, one {Mi familia tiene {num_cars} coche y 1 barco.} other {Mi familia tiene {num_cars} coches y 1 barco.}}"
+   },
+   "string_boats":{
+      "string":"{num_boats, plural, one {Mi familia tiene 1 coche y {num_boats} barco.} other {Mi familia tiene 1 coche y {num_boats} barcos.}}"
+   },  
+
+
+
+
+
+
+   "string_cars_and_boats":{
+      "string":"{num_boats, plural, one {num_cars, plural, one {Mi familia tiene {num_cars} auto y {num_boats} bote.} other {Mi familia tiene {num_cars} autos y {num_boats} bote.}} other {num_cars, plural, one {Mi familia posee {num_cars} auto y {num_boats} botes.} other {Mi familia posee {num_cars} autos y {num_boats} botes.}}}"
+   },
+
+
+
+
+
+
+
+   "singular_key":{
+      "string":"Esta es una cadena regular."
+   },
+   "total_files":{
+      "string":"{ file_count, plural, one {Tienes el archivo {file_count}.} other {Tienes {file_count}archivos.} }",
+      "context":"Contexto adicional:....."
+   },
+   "special_chars":{
+      "string":"{ cnt, plural, one {Este es el libro de Sam.} other {Estos son los libros de Sam.} }",
+      "developer_comment":"Esta es una cadena pluralizada con carácter especial."
+   },
+   "gold_coins":{
+      "string":"{ cnt, plural, one {Tienes una moneda de oro.} other {Tienes {cnt} monedas de oro.} \n}",
+      "character_limit":150
+   },
+   "key_1":{
+      "key_nested_1a":{
+         "string":"localizar"
+      },
+      "key_nested_1b":{
+         "key_nested_1ba":{
+            "string":"herramientas de traducción"
+         },
+         "key_nested_1bb":{
+            "string":"{ minute_count, plural, one {minuto} other {{minute_count} minutos} }"
+         }
+      }
+   },
+   "parent_key":{
+      "child_key":{
+         "string":"Esta es una clave de un niño.",
+         "context":"Sustantivo",
+         "developer_comment":"Este es un comentario.",
+         "character_limit":150
+      }
+   }
+}
