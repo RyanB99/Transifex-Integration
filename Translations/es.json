@@ -1,0 +1,8 @@
+{
+   "string_apples":{
+      "string":"{num_apples, plural, one {Esta es una oración en la que pluralizamos {num_apples} manzana y 1 naranja.} other {Esta es una oración en la que pluralizamos {num_apples} manzanas y 1 naranja.}}"
+   },
+   "string_oranges":{
+      "string":"{num_oranges, plural, one {Esta es una oración en la que pluralizamos 1 manzana y {num_oranges} naranja.} other {Esta es una oración en la que pluralizamos 1 manzana y {num_oranges} naranjas.}}"
+   }
+}
