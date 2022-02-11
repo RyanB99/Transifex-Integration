@@ -1,0 +1,8 @@
+{
+   "string_apples":{
+      "string":"{num_apples, plural, other {これは、{num_apples}個のリンゴと1個のオレンジを複数形にした文です。}}"
+   },
+   "string_oranges":{
+      "string":"{num_oranges, plural, other {これは、1つのリンゴと{num_oranges}オレンジを複数形にした文です。}}"
+   }
+}
