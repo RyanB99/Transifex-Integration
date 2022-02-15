@@ -1,0 +1,8 @@
+{
+   "string_apples":{
+      "string":"{num_apples, plural, one {זהו משפט שבו אנו משתמשים בריבוי {num_apples} תפוח ותפוז אחד.} two {זהו משפט שבו אנו משתמשים בריבוי {num_apples} תפוחים ותפוז אחד.} many {זהו משפט שבו אנו משתמשים בריבוי {num_apples} תפוחים ותפוז אחד.} other {זהו משפט שבו אנו משתמשים בריבוי {num_apples} תפוחים ותפוז אחד.}}"
+   },
+   "string_oranges":{
+      "string":"{num_oranges, plural, one {זהו משפט שבו אנו מבצעים ריבוי תפוח אחד ותפוז {num_oranges}.} two {זהו משפט שבו אנו מרבים תפוח אחד ותפוזים {num_oranges}.} many {זהו משפט שבו אנו מרבים תפוח אחד ותפוזים {num_oranges}.} other {זהו משפט שבו אנו מרבים תפוח אחד ותפוזים {num_oranges}.}}"
+   }
+}
