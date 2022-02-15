@@ -1,0 +1,8 @@
+{
+   "string_apples":{
+      "string":"{num_apples, plural, zero {هذه جملة نجمع فيها {num_apples} تفاحة و 1 برتقالة.} one {هذه جملة نضع فيها {num_apples} تفاحة و 1 برتقالة.} two {هذه جملة نجمع فيها {num_apples} تفاحة و 1 برتقالة.} few {هذه جملة نجمع فيها {num_apples} تفاحة و 1 برتقالة.} many {هذه جملة نجمع فيها {num_apples} تفاحة و 1 برتقالة.} other {هذه جملة نجمع فيها {num_apples} تفاحة و 1 برتقالة.}}"
+   },
+   "string_oranges":{
+      "string":"{num_oranges, plural, zero {هذه جملة نجمع فيها تفاحة واحدة و {num_oranges} برتقال.} one {هذه جملة نجمع فيها تفاحة واحدة و {num_oranges} برتقالي.} two {هذه جملة نجمع فيها تفاحة واحدة و {num_oranges} برتقال.} few {هذه جملة نجمع فيها تفاحة واحدة و {num_oranges} برتقال.} many {هذه جملة نجمع فيها تفاحة واحدة و {num_oranges} برتقال.} other {هذه جملة نجمع فيها تفاحة واحدة و {num_oranges} برتقال.}}"
+   }
+}
