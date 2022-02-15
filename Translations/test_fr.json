@@ -1,0 +1,8 @@
+{
+   "string_apples":{
+      "string":"{num_apples, plural, one {C&#39;est une phrase où nous mettons au pluriel {num_apples} pomme et 1 orange.} other {C&#39;est une phrase où nous mettons au pluriel {num_apples} pommes et 1 orange.}}"
+   },
+   "string_oranges":{
+      "string":"{num_oranges, plural, one {C&#39;est une phrase où nous mettons au pluriel 1 pomme et {num_oranges} orange.} other {C&#39;est une phrase où nous mettons au pluriel 1 pomme et {num_oranges} oranges.}}"
+   }
+}
