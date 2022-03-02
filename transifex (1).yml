@@ -8,9 +8,9 @@ git:
         translation_files_expression: src/localization/<lang>/content.json
 
     settings:
-      pr_branch_name: sjr_translations_<br_unique_id>
-      language_mapping:
-          es_419: es-419
-          pt_BR: pt-br
-          zh_CN: zh-cn
-          zh_TW: zh-tw
+        pr_branch_name: sjr_translations_<br_unique_id>
+        language_mapping:
+            es_419: es-419
+            pt_BR: pt-br
+            zh_CN: zh-cn
+            zh_TW: zh-tw
