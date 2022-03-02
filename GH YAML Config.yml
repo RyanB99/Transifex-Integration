@@ -7,3 +7,10 @@ git:
         source_file: SourceFiles/example.po
     # path expression to translation files, must contain <lang> placeholder
         translation_files_expression: 'Translations/<lang>/'
+
+      - filter_type: dir
+        file_format: KEYVALUEJSON
+        source_file_extension: json
+        source_language: en
+        source_file_dir: SourceFiles
+        translation_files_expression: 'Translations/<lang>/'
