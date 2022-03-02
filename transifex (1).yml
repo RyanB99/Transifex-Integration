@@ -6,6 +6,7 @@ git:
         source_file_extension: json
         source_file: src/localization/content.json
         translation_files_expression: src/localization/<lang>/content.json
+
     settings:
       pr_branch_name: sjr_translations_<br_unique_id>
       language_mapping:
