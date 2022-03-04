@@ -25,3 +25,7 @@ msgstr ""
 #: src/heraldry/attribution.cljs
 msgid "Derivative"
 msgstr ""
+
+#: src/heraldry/attribution.cljs
+msgid "Ryan"
+msgstr ""
