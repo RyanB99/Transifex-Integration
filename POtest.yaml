@@ -2,7 +2,7 @@ git:
     filters:
       - filter_type: dir
         file_format: PO
-        source_file_extension: pot
+        source_file_extension: po
         source_language: en
         source_file_dir: SourceFiles
         translation_files_expression: 'Translations/<lang>/'
