@@ -6,6 +6,6 @@ git:
         source_language: en_GB
         source_file_dir: SourceFiles/
         translation_files_expression: 'Translations/<lang>/'
-      settings:
-        language_mapping:
-          en_GB: en-GB
+     settings:
+       language_mapping:
+         en_GB: en-GB
