@@ -1,7 +1,8 @@
 git:
     filters:
-      - filter_type: file
+      - filter_type: dir
         file_format: PO
+        source_file_extension: po
         source_language: en
-        source_file: SourceFiles/recipients_app-locale-en-us-lc-messages-recipient-emails-po--master_en.po
+        source_file_dir: SourceFiles/
         translation_files_expression: 'Translations/<lang>/'
