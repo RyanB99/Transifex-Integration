@@ -5,7 +5,7 @@ git:
         source_file_extension: po
         source_language: en_GB
         source_file_dir: SourceFiles/en-GB
-        translation_files_expression: 'Translations/<lang>/'
+        translation_files_expression: 'SourceFiles/<lang>/'
     settings:
        language_mapping:
          en_GB: en-GB
