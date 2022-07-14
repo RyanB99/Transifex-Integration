@@ -4,7 +4,7 @@ git:
         file_format: PO
         source_file_extension: po
         source_language: en_GB
-        source_file_dir: config/locales/en-GB/questionnaires_smart
+        source_file_dir: config/locales/en_GB/questionnaires_smart
         translation_files_expression: 'config/locales/<lang>/questionnaires_smart/'
     settings:
        language_mapping:
