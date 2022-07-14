@@ -8,5 +8,4 @@ git:
         translation_files_expression: 'config/locales/<lang>/questionnaires_smart/'
     settings:
        language_mapping:
-         en_GB: en-GB
          es_MX: es-MX
