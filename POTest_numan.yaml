@@ -6,6 +6,3 @@ git:
         source_language: en_GB
         source_file_dir: config/locales/en_GB/questionnaires_smart
         translation_files_expression: 'config/locales/<lang>/questionnaires_smart/'
-    settings:
-       language_mapping:
-         es_MX: es-MX
