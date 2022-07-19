@@ -1,8 +1,26 @@
 git:
-    filters:
-      - filter_type: dir
-        file_format: PO
-        source_file_extension: po
-        source_language: en_GB
-        source_file_dir: config/locales/en_GB/questionnaires_smart
-        translation_files_expression: 'config/locales/<lang>/questionnaires_smart/'
+  filters:
+  - filter_type: file
+    file_format: YML
+    source_language: en_GB
+    source_file: config/locales/en-GB/questionnaires_smart/erectile_dysfunction/questionnaires-1_config-locales-en-gb-questionnaires-smart-erectile-dysfunction-erectile-dysfunction-16-yml--master_en_GB.yml
+    translation_files_expression: 'config/locales/<lang>/questionnaires_smart/erectile_dysfunction/questionnaires-1_config-locales-en-gb-questionnaires-smart-erectile-dysfunction-erectile-dysfunction-16-yml--master_en_GB.yml'
+  - filter_type: file
+    file_format: YML
+    source_language: en_GB
+    source_file: config/locales/en-GB/questionnaires_smart/hair_loss/questionnaires-1_config-locales-en-gb-questionnaires-smart-hair-loss-hair-loss-10-yml--master_en_GB.yml
+    translation_files_expression: 'config/locales/<lang>/questionnaires_smart/hair_loss/questionnaires-1_config-locales-en-gb-questionnaires-smart-hair-loss-hair-loss-10-yml--master_en_GB.yml'
+  - filter_type: file
+    file_format: YML
+    source_language: en_GB
+    source_file: config/locales/en-GB/questionnaires_smart/premature_ejaculation/questionnaires-1_config-locales-en-gb-questionnaires-smart-premature-ejaculation-premature-ejaculation-4-yml--master_en_GB.yml
+    translation_files_expression: 'config/locales/<lang>/questionnaires_smart/premature_ejaculation/questionnaires-1_config-locales-en-gb-questionnaires-smart-premature-ejaculation-premature-ejaculation-4-yml--master_en_GB.yml'
+  - filter_type: file
+    file_format: YML
+    source_language: en_GB
+    source_file: config/locales/en-GB/questionnaires_smart/questionnaires-1_config-locales-en-gb-questionnaires-smart-content-yml--master_en_GB.yml
+    translation_files_expression: 'config/locales/<lang>/questionnaires_smart/questionnaires-1_config-locales-en-gb-questionnaires-smart-content-yml--master_en_GB.yml'
+  settings:
+    language_mapping:
+      en_GB: en-GB
+      de_DE: de-DE 
