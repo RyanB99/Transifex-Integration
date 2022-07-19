@@ -1,0 +1,326 @@
+en-GB:
+  q11e:
+    pe4:
+      qst:
+        what_is_your_age:
+          content: "Please tell us your age."
+          opt:
+            65_or_over:
+              content: "65 or over"
+              result:
+                query_clinically:
+                  content: "Reject for Priligy - send 'PE age restrictions macro'"
+            26_to_64:
+              content: "26-64"
+            18_to_25:
+              content: "18-25"
+              result:
+                query_clinically:
+                  content: "Send 'PE under 25 years safety net' macro"
+            under_18:
+              content: "Under 18"
+              result:
+                reject:
+                  content: "Unfortunately we're unable to recommend a premature ejaculation treatment for you. We recommend visiting your GP and discussing your symptoms with them.<br/><br/> If you'd like to talk to our clinicians about this, please email <a href='mailto:clinic@numan.com'>clinic@numan.com</a> and we'll do our best to find a solution or recommend next steps."
+
+        do_you_have_an_allergy_or_intolerance_to:
+          content: "Do you have an allergy or intolerance to any of the following?"
+          opt:
+            lidocaine:
+              content: "I am allergic to lidocaine"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Delay Spray"
+            serotonin:
+              content: "I am allergic to selective serotonin re-uptake inhibitors e.g. dapoxetine (Priligy)"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy. Reject for Priligy - send 'PE: not suitable macro'"
+            lactose:
+              content: "I am allergic to lactose or have a lactose intolerance"
+            not_allergic:
+              content: "I am not allergic to any of the above"
+
+        lactose_tolerance:
+          content: "Some PE medication contains very small amounts of lactose. If you have taken a tablet formulation before without experiencing symptoms, it is unlikely that you will get undesirable effects from the lactose within our tablets."
+          opt:
+            cant_tolerate_any:
+              content: "I can't tolerate any amount of lactose"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy. Reject for Priligy - send 'PE: contra-indicated' macro"
+            can_tolerate_very_small_amounts:
+              content: "I can tolerate very small amounts of lactose"
+
+        how_long_experiencing:
+          content: "How long have you been experiencing premature ejaculation?"
+          opt:
+            since_first:
+              content: "Ever since my first sexual encounter"
+              result:
+                query_clinically:
+                  content: "The criteria states that if patients have experienced PE from their first sexual encounter then they are eligible for treatment, if this has been < 6 months reject for Priligy - send 'PE: not suitable macro'"
+            over_6_months:
+              content: "For more than 6 months"
+            less_than_6_months:
+              content: "For less than 6 months"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy; Priligy should only be prescribed for men with a  history of premature ejaculation in the majority of intercourse attempts over the prior 6 months. Reject for Priligy - send 'PE: not suitable macro'"
+
+        how_long_ago:
+          content: "How long ago was your first sexual encounter?"
+
+        how_often_affected:
+          content: "How often do you feel affected by premature ejaculation during sexual activity?"
+          opt:
+            every_time:
+              content: "Every time"
+            more_than_half:
+              content: "More than half the time"
+            less_than_half:
+              content: "Less than half the time"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy; Priligy should only be prescribed for men who experience persistent or recurrent ejaculation issues more than half the time. Reject for Priligy - send 'PE: not suitable macro'"
+
+        how_soon_affected:
+          content: "When experiencing premature ejaculation, how soon after entering your partner do you ejaculate?"
+          opt:
+            less_than_2_min:
+              content: "Less than 2 minutes"
+            between_2_and_10_min:
+              content: "Between 2 and 10 minutes"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy. PE is diagnosed as an intravaginal ejaculatory latency time (IELT) of less than two minutes. Reject for Priligy - send 'PE: not suitable macro'"
+            more_than_10_min:
+              content: "More than 10 minutes"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy. PE is diagnosed as an intravaginal ejaculatory latency time (IELT) of less than two minutes. Reject for Priligy - send 'PE: not suitable macro'"
+
+        have_control:
+          content: "Do you think you have control of when you ejaculate?"
+          opt:
+            'yes':
+              content: "Yes, I can control when I ejaculate"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy; Priligy should only be prescribed for men with a poor control over ejaculation. Reject for Priligy - send 'PE: not suitable macro'"
+            'no':
+              content: "No, I cannot control when I ejaculate"
+            sometimes:
+              content: "I can sometimes control when I ejaculate"
+
+        cause_distress:
+          content: "Does premature ejaculation cause distress or difficulties in your sex life?"
+          opt:
+            'yes':
+              content: "Yes, absolutely"
+            'no':
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy; Priligy should only be prescribed for men with a  marked personal distress or interpersonal difficulty as a consequence of PE. Reject for Priligy - send 'PE: not suitable macro'"
+
+        get_and_maintain:
+          content: "Can you always get and maintain an erection when you want one?"
+          opt:
+            'no':
+              result:
+                query_clinically:
+                  content: "ED should be investigated before treatment for PE. Priligy should not be used in men with erectile dysfunction (ED) who are using PDE5 inhibitors due to risk of hypotension. Reject for Priligy and send 'PE: Erectie dysfunction (reject)'"
+
+        take_recreational_drugs:
+          content: "Do you take recreational drugs such as ecstasy, LSD, narcotics or benzodiazepines?"
+          opt:
+            'yes':
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: recreational drugs' macro."
+
+        select_all_that_apply:
+          content: "Select all the following statements that apply to you."
+          opt:
+            have_d_a_m_p:
+              content: "I have depression, anxiety, mania or panic disorder(s)"
+              result:
+                query_clinically:
+                  content: "Patient is not eligible for Priligy. Priligy is not suitable in patients with a history of mania, severe depression or bipolar disorder.  For patients with anxiety or panic disorders, make sure there are no interactions with their regular medicines.  Reject for Priligy and send 'PE: Priligy contra-indication' macro."
+            have_neurological_conditions:
+              content: "I have neurological conditions such as epilepsy"
+            have_blood_clotting:
+              content: "I have a blood clotting disorder"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: bleeding risk safety net' macro."
+            have_cardiac_conditions:
+              content: "I have cardiac conditions such as heart failure, ischaemic heart disease, heart valve problems, heart rhythm problems, peripheral vascular disease or a history of fainting"
+              result:
+                query_clinically:
+                  content: "Priligy is contraindicated in these conditions. Reject for Priligy - send 'PE: Priligy contra-indicated' macro."
+            have_liver_kidney_conditions:
+              content: "I have liver or kidney conditions"
+              result:
+                query_clinically:
+                  content: "Priligy contraindicated if eGFR less than 30ml/minute/1.73m2. Priligy contraindicated in moderate and severe hepatic impairment (Child-Pugh Class B and C). Delay spray - do not prescribe in severe hepatic impairment. Reject for Priligy - send 'PE: Priligy contra-indicated' macro"
+            have_raised_intraocular_or_glaucoma:
+              content: "I have raised intraocular pressure, have been told I'm at risk of angle closure glaucoma, or I'm being treated for glaucoma"
+            experiencing_urinary_issues:
+              content: "I have been experiencing urinary issues such as increased frequency, difficulty or urgency to urinate, and/or cloudy, bloody, painful urination"
+              result:
+                reject:
+                  content: "Unfortunately we're unable to recommend a premature ejaculation treatment for you. Please speak to your GP for advice."
+            have_hormone_conditions:
+              content: "I have hormone conditions such as thyroid problems or hypogonadism (low testosterone levels)"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: hormone conditions' macro"
+            none_of_the_above:
+              content: "None of the above"
+
+        tell_more_about_d_a_m_p:
+          content: "Please tell us more about your depression, anxiety, mania or panic disorder including treatments you're currently taking to manage your condition."
+
+        when_was_last_seizure:
+          content: "When was the last time you experienced a seizure?"
+          opt:
+            more_than_2_years_ago:
+              content: "More than two years ago"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: Epilepsy safety net' macro."
+            within_2_years:
+              content: "Within the last two years"
+              result:
+                query_clinically:
+                  content: "Patient not eligible for Priligy. Reject for Priligy - send 'PE: contra-indicated' macro"
+
+        tell_more_about_liver_kidney_conditions:
+          content: "Please tell us more about your liver or kidney impairment, as well as the results of your most recent liver and/or kidney test."
+
+        accept_pressure_risk:
+          content: "Priligy can further increase the pressure inside the eye which can damage your vision, worsen pre-existing glaucoma or precipitate an episode of closed angle glaucoma."
+          opt:
+            accept:
+              content: "I accept the risk and would like to be considered for Priligy"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, send 'PE: glaucoma safety net' macro"
+            proceed_with_spray_wipes_only:
+              content: "I would like to proceed with Delay Spray or Delay Wipes only"
+              result:
+                query_clinically:
+                  content: "Reject for Priligy - send 'PE: Priligy contra-indicated' macro"
+
+        take_any_of_following:
+          content: "Do you take any of the following medications or recreational drugs?"
+          opt:
+            medicine_for_dep_anx:
+              content: "Medicine for depression or anxiety"
+              result:
+                query_clinically:
+                  content: "Drug interaction; Priligy is not suitable. Reject for Priligy and send 'PE: Priligy contra-indicated' macro"
+            med_group_1_tltn:
+              content: "Thioridazine, lithium, tramadol, nefazodone"
+              result:
+                query_clinically:
+                  content: "Drug interaction; Priligy is not suitable. Reject for Priligy and send 'PE: Priligy contra-indicated' macro"
+            med_group_2_warac_or_thinners:
+              content: "Warfarin, apixaban, rivaroxaban, aspirin, clopidogrel or any other blood thinners"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: Priligy bleeding risk safety net' macro"
+            med_group_3_dtpa:
+              content: "Doxazosin, tamsulosin, prazosin, alfuzosin"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: Interaction alpha blocker and Priligy' macro"
+            med_group_4_vd:
+              content: "Verapamil or diltiazem"
+              result:
+                query_clinically:
+                  content: "Drug interaction; Maximum dose Priligy 30mg. If Priligy 60mg requested and Priligy is clinically appropriate - reject 60mg prescription, prescribe Priligy 30mg and send 'PE: max dose 30mg' macro."
+            med_group_5_ind:
+              content: "Ibuprofen, naproxen, diclofenac"
+              result:
+                query_clinically:
+                  content: "If Priligy requested and is clinically appropriate, on approval send 'PE: Priligy bleeding risk safety net' macro"
+            med_group_6_srz:
+              content: "Sumatriptan, rizatriptan and zolmitriptan (for migraines)"
+              result:
+                query_clinically:
+                  content: "Drug interaction; Priligy is not suitable. Reject for Priligy and send 'PE: Priligy contra-indicated' macro"
+            aprepitant:
+              content: "Aprepitant"
+              result:
+                query_clinically:
+                  content: "Drug interaction; Maximum dose Priligy 30mg. If Priligy 60mg requested and Priligy is clinically appropriate - reject 60mg prescription, prescribe Priligy 30mg and send 'PE: max dose 30mg' macro."
+            med_group_7_ectl:
+              content: "Erythromycin, clarithromycin, telithromycin, linezolid"
+              result:
+                query_clinically:
+                  content: "Telithromycin and linezolid are contra-indicated with Priligy. Send 'PE: Priligy contra-indicated' macro. Erythromycin, clarithromycin -  Drug interaction; Maximum dose Priligy 30mg. If Priligy 60mg requested and Priligy is clinically appropriate - reject 60mg prescription, prescribe Priligy 30mg and send 'PE: max dose 30mg' macro."
+            med_group_8_aafnrs:
+              content: "Amprenavir, atazanavir, fosamprenavir, nelfinavir, ritonavir and saquinavir"
+              result:
+                query_clinically:
+                  content: "Atazanavir, nelfinavir, ritonavir, saquinavir are contraindicated with Priligy. Send 'PE: Priligy contra-indicated' macro. Amprenavir and fosamprenavir - Drug interaction; Maximum dose Priligy 30mg. If Priligy 60mg requested and Priligy is clinically appropriate - reject 60mg prescription, prescribe Priligy 30mg and send 'PE: max dose 30mg' macro."
+            med_group_9_kif:
+              content: "Ketoconazole, itraconazole, fluconazole"
+              result:
+                query_clinically:
+                  content: "Ketoconazole and itraconazole is contra-indicated with Priligy. Send 'PE: Priligy contra-indicated' macro. Fluconazole - Drug interaction; Maximum dose Priligy 30mg. If Priligy 60mg requested and Priligy is clinically appropriate - reject 60mg prescription, prescribe Priligy 30mg and send 'PE: max dose 30mg' macro."
+            none_of_the_above:
+              content: "None of the above"
+
+        premature_ejaculation_treatments:
+          content: "Have you taken, or are you currently taking any of the following premature ejaculation treatments?"
+          opt:
+            priligy_30:
+              content: "Priligy (Dapoxetine) 30mg tablets"
+            priligy_60:
+              content: "Priligy (Dapoxetine) 60mg tablets"
+            delay_spray:
+              content: "Delay spray"
+            delay_wipes:
+              content: "Delay Wipes"
+            other_treatments:
+              content: "Other treatments"
+            none_of_the_above:
+              content: "None of the above"
+
+        did_priligy_work:
+          content: "Did Priligy/Dapoxetine work for you in the past?"
+
+        did_delay_spray_work:
+          content: "Did Delay Spray work for you in the past?"
+
+        did_delay_wipes_work:
+          content: "Did Delay Wipes work for you in the past?"
+
+        priligy_history:
+          content: "Please tell us more about your history with Priligy, including which dose you tried, how long you used it, how effective it was for you, and if you experienced any side effects."
+
+        delay_spray_history:
+          content: "Please tell us more about your history with Delay Spray, including which dose you tried, how long you used it, how effective it was for you, and if you experienced any  side effects."
+
+        delay_wipes_history:
+          content: "Please tell us more about your history with Delay Wipes, how long you used it, how effective it was for you, and if you experienced any side effects."
+
+        premature_ejaculation_treatments_history:
+          content: "Please tell us more about the premature ejaculation treatments you've tried, including how long you've used them, how effective they've been for you and if you experienced any side effects."
+
+        medical_history:
+          content: "It's really important to tell us about:<br/> <ul> <li>Major illnesses</li> <li>Ongoing medical conditions</li> <li>Any medication prescribed or over the counter that you take</li> <li>Allergies to medication</li> <li>Operations</li> </ul> This information is needed so that our clinicians can ensure the prescription is safe for you to take."
+          opt:
+            have_medical_history:
+              content: "I have a major illness, ongoing medical condition, allergy to medication or take prescribed or over the counter medication to tell you about."
+            have_no_medical_history:
+              content: "I do not have a major illness, ongoing medical condition, operation, allergy to medication or take prescribed or over the counter medication to tell you about."
+
+        tell_us_about_medical_history:
+          content: "Please tell us about your major illness, ongoing medical condition, repeat medication, allergy, or operation you've had.<br/><br/>This information is needed so that our clinicians can ensure the prescription is safe for you to take."
+
+        tell_us_about_medication_history:
+          content: "Please include a full list of any medications, prescribed or over the counter, that you are currently taking.<br/><br/>This information is needed so that our clinicians can ensure the prescription is safe for you to take."
