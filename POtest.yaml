@@ -3,6 +3,6 @@ git:
       - filter_type: dir 
         file_format: KEYVALUEJSON
         source_file_extension: json
-        source_language: en 
+        source_language: fr_CA 
         source_file_dir: src/i18n/fr_CA
         translation_files_expressions: 'src/i18n/<lang>'
