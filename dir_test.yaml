@@ -1,0 +1,8 @@
+git:
+    filters:
+      - filter_type: dir
+        file_format: KEYVALUEJSON
+        source_file_extension: json
+        source_language: fr_ca
+        source_file_dir: rc/i18n/fr_CA/
+        translation_files_expression: 'src/i18n/<lang>'
