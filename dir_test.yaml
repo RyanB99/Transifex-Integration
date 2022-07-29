@@ -5,4 +5,4 @@ git:
         source_file_extension: json
         source_language: fr_ca
         source_file_dir: rc/i18n/fr_CA/
-        translation_files_expression: 'src/i18n/<lang>'
+        translation_files_expression: 'rc/i18n/<lang>'
