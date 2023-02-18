@@ -1,0 +1,34 @@
+# 
+# Translators:
+# Ryan Bernstein, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Ryan Bernstein, 2023\n"
+"Language-Team: Russian (https://www.transifex.com/ryan-inc/teams/116303/ru/)\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution"
+msgstr "СС Атрибуция"
+
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution-ShareAlike"
+msgstr "CC Attribution-ShareAlike"
+
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution-NonCommercial-ShareAlike"
+msgstr "CC Attribution-NonCommercial-ShareAlike"
+
+#: src/heraldry/attribution.cljs
+msgid "Public Domain"
+msgstr "Всеобщее достояние"
+
+#: src/heraldry/attribution.cljs
+msgid "Own work"
+msgstr "Наша работа"
+
+#: src/heraldry/attribution.cljs
+msgid "Derivative"
+msgstr "ccvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
