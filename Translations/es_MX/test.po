@@ -1,21 +1,21 @@
 # 
 # Translators:
-# Ryan Bernstein, 2023
+# Transifex Bot <>, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Ryan Bernstein, 2023\n"
-
-"Language: ar\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Last-Translator: Transifex Bot <>, 2023\n"
+"Language-Team: Spanish (Mexico) (https://app.transifex.com/ryan-inc/teams/116303/es_MX/)\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution"
-msgstr "إسناد CC"
+msgstr "Atribución CC"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-ShareAlike"
-msgstr "CC Attribution-ShareAlike"
+msgstr "CC Reconocimiento-CompartirIgual"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-NonCommercial-ShareAlike"
@@ -23,12 +23,12 @@ msgstr "CC Attribution-NonCommercial-ShareAlike"
 
 #: src/heraldry/attribution.cljs
 msgid "Public Domain"
-msgstr "المجال العام"
+msgstr "Dominio publico"
 
 #: src/heraldry/attribution.cljs
 msgid "Own work"
-msgstr "عمل خاص"
+msgstr "Propio trabajo"
 
 #: src/heraldry/attribution.cljs
 msgid "Derivative"
-msgstr "dsjhnskldk"
+msgstr "Derivado"
