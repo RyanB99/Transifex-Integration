@@ -1,31 +1,34 @@
-#
+# 
+# Translators:
+# Ryan Bernstein, 2023
+# 
 msgid ""
 msgstr ""
+"Last-Translator: Ryan Bernstein, 2023\n"
+
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution"
-msgstr ""
+msgstr "CC Attribution"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-ShareAlike"
-msgstr ""
+msgstr "mmnnmnmmnc"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-NonCommercial-ShareAlike"
-msgstr ""
+msgstr "CC Attribution-NonCommercial-ShareAlike"
 
 #: src/heraldry/attribution.cljs
 msgid "Public Domain"
-msgstr ""
+msgstr "Allmängods"
 
 #: src/heraldry/attribution.cljs
 msgid "Own work"
-msgstr ""
+msgstr "Eget arbete"
 
 #: src/heraldry/attribution.cljs
 msgid "Derivative"
-msgstr ""
-
-#: src/heraldry/attribution.cljs
-
-msgstr ""
+msgstr "Derivat"
