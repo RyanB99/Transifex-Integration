@@ -1,5 +1,6 @@
 # 
 # Translators:
+
 # Ryan Bernstein, 2023
 # 
 msgid ""
@@ -32,3 +33,4 @@ msgstr "عمل خاص"
 #: src/heraldry/attribution.cljs
 msgid "Derivative"
 msgstr "dsjhnskldk"
+
