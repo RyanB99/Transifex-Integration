@@ -1,0 +1,38 @@
+# 
+# Translators:
+# Ryan Bernstein, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Ryan Bernstein, 2023\n"
+"Language-Team: Hebrew (https://app.transifex.com/ryan-inc/teams/170607/he/)\n"
+"Language: he\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution"
+msgstr "ייחוס CC"
+
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution-ShareAlike"
+msgstr "CC Attribution-ShareAlike"
+
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution-NonCommercial-ShareAlike"
+msgstr "CC Attribution-NonCommercial-ShareAlike"
+
+#: src/heraldry/attribution.cljs
+msgid "Public Domain"
+msgstr "נחלת הכלל"
+
+#: src/heraldry/attribution.cljs
+msgid "Own work"
+msgstr "עבודתי שלי"
+
+#: src/heraldry/attribution.cljs
+msgid "Derivative"
+msgstr "נגזר"
+
+#: src/heraldry/attribution.cljs
+msgid "Ryan String"
+msgstr "ריאן סטרינג"
