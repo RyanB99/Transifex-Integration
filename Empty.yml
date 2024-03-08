@@ -1,0 +1,8 @@
+git:
+  filters:
+  - filter_type: file
+    # all supported i18n types: https://docs.transifex.com/formats
+    file_format: YML
+    source_language: en_GB
+    source_file: config/locales/en-GB/doesnotexist.yml
+    translation_files_expression: 'config/locales/<lang>/doesnotexist.yml'
