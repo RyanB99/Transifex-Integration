@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Ryan Bernstein, 2022
+# Ryan Bernstein, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Ryan Bernstein, 2022\n"
+"Last-Translator: Ryan Bernstein, 2024\n"
 "Language-Team: French (https://app.transifex.com/ryan-inc/teams/116303/fr/)\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
@@ -19,9 +19,7 @@ msgstr "CC Attribution-Partage dans les mêmes conditions"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-NonCommercial-ShareAlike"
-msgstr ""
-"CC Attribution-Pas d'utilisation commerciale-Partage dans les mêmes "
-"conditions"
+msgstr "CC Attribution-NonCommercial-ShareAlike"
 
 #: src/heraldry/attribution.cljs
 msgid "Public Domain"
@@ -36,5 +34,5 @@ msgid "Derivative"
 msgstr "Dérivé"
 
 #: src/heraldry/attribution.cljs
-msgid "Ryan Branch Test"
-msgstr ""
+msgid "Ryan String"
+msgstr "Ryan String"
