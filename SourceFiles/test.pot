@@ -27,5 +27,5 @@ msgid "Derivative"
 msgstr ""
 
 #: src/heraldry/attribution.cljs
-
+msgid "Private Domain"
 msgstr ""
