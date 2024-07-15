@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Ryan Bernstein, 2023\n"
-"Language-Team: Swedish (Sweden) (https://app.transifex.com/ryan-inc/teams/116303/sv_SE/)\n"
+
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -32,7 +32,3 @@ msgstr "Eget arbete"
 #: src/heraldry/attribution.cljs
 msgid "Derivative"
 msgstr "Derivat"
-
-#: src/heraldry/attribution.cljs
-msgid "Ryan Branch Test"
-msgstr ""
