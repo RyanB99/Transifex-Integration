@@ -36,4 +36,4 @@ msgstr "Derivado"
 
 #: src/heraldry/attribution.cljs
 msgid "Private Domain"
-msgstr "Dominio Privado"
+msgstr "Dominio Privado - change"
