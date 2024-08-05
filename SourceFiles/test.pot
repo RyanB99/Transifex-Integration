@@ -29,3 +29,7 @@ msgstr ""
 #: src/heraldry/attribution.cljs
 msgid "Private Domain"
 msgstr ""
+
+#: src/heraldry/attribution.cljs
+msgid "Aug 5"
+msgstr ""
