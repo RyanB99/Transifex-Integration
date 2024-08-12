@@ -1,0 +1,51 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "I beg your pardon.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le ruego me disculpe."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I beg your pardon."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אני מתנצל."
+          }
+        }
+      }
+    },
+    "Your %@ plan year has ended.": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your %@ plan year has ended."
+          }
+        }
+      }
+    },
+    "Your %1$s plan year has ended.": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your %1$s plan year has ended."
+          }
+        }
+      }
+    }       
+  },
+  "version": "1.0"
+}
