@@ -1,0 +1,1029 @@
+"Cellular" = "Cellular";
+
+"Click to login" = "Click to login";
+
+"Copy Link" = "Copy Link";
+
+"Don't Save" = "Don't Save";
+
+"Guest" = "Guest";
+
+"Huge" = "Huge";
+
+"Large" = "Large";
+
+"Loading" = "Loading";
+
+"Medium" = "Medium";
+
+"No Connection" = "No Connection";
+
+"Open In Safari" = "Open In Safari";
+
+"Report a Concern" = "Report a Concern";
+
+"Save" = "Save";
+
+"Share to Community" = "Share to Community";
+
+"Small" = "Small";
+
+"Today" = "Today";
+
+"WiFi" = "WiFi";
+
+"Yesterday" = "Yesterday";
+
+"Classifieds" = "Classifieds";
+
+"Email is not setup yet!" = "Email is not setup yet!";
+
+"Error" = "Error";
+
+"Following" = "Following";
+
+"Home" = "Home";
+
+"Inbox" = "Inbox";
+
+"Local" = "Local";
+
+"Login failure, please login again" = "Login failure, please login again";
+
+"Login success" = "Login success";
+
+"Login failed" = "Login failed";
+
+"Login..." = "Login...";
+
+"Me" = "Me";
+
+"OK" = "OK";
+
+"Refresh" = "Refresh";
+
+"Discover" = "Discover";
+
+"Skip" = "Skip";
+
+"Like" = "Like";
+
+"Comment" = "Comment";
+
+"English" = "English";
+
+"Spanish" = "Spanish";
+
+"Portuguese" = "Portuguese";
+
+"For You" = "For You";
+
+"Report" = "Report";
+
+"Font size" = "Font size";
+
+"Text size" = "Text size";
+
+"Uploading" = "Uploading";
+
+"Uploading avatar" = "Uploading avatar";
+
+"Saving your nickname..." = "Saving your nickname...";
+
+"Share Success!" = "Share Success!";
+
+"Shared successfully" = "Shared successfully";
+
+"Link Copied!" = "Link Copied!";
+
+"Can not access camera roll!" = "Can not access camera roll!";
+
+"Invalid ZIP Code. Please try again." = "Invalid ZIP Code. Please try again.";
+
+"Check back for your notifications." = "Check back for your notifications.";
+
+"Upvote" = "LIKE";
+
+"I am using %@" = "I am using %@";
+
+"Email" = "Email";
+
+"SMS" = "SMS";
+
+"Write a comment..." = "Write a comment...";
+
+"Sign in to access saved stories on any device." = "Sign in to access saved stories on any device.";
+
+"Sign in to communicate with others." = "Sign in to communicate with others.";
+
+"Sign in for email digest." = "Sign in for email digest.";
+
+"TERMS_AND_PRIVACY" = "By continuing with any of the options above, you consent and agree to the Terms and Privacy Policy";
+
+"TERMS_STR" = "Terms";
+
+"PRIVACY_STR" = "Privacy Policy";
+
+"Log out" = "Log out";
+
+"Cancel" = "Cancel";
+
+"Configuration" = "Configuration";
+
+"Avatar" = "Avatar";
+
+"Nickname" = "Nickname";
+
+"Pick from camera roll" = "Pick from camera roll";
+
+"Camera" = "Camera";
+
+"Read all" = "Read all";
+
+"Share" = "Share";
+
+"Block User" = "Block User";
+
+"Okay" = "Okay";
+
+"Warning" = "Warning";
+
+"Are you sure you want to delete this reply?" = "Are you sure you want to delete this reply?";
+
+"Are you sure you want to delete this comment?" = "Are you sure you want to delete this comment?";
+
+"Heads Up!" = "Heads Up!";
+
+"Save failed" = "Save failed";
+
+"Network Error" = "Network Error";
+
+"Just now" = "Just now";
+
+"m" = "m";
+
+"h" = "h";
+
+"d" = "d";
+
+"days" = "days";
+
+"day" = "day";
+
+"1 year ago" = "1 year ago";
+
+"%@ ago" = "%@ ago";
+
+"%d%@ ago" = "%d%@ ago";
+
+"%@ free download:%@" = "%@ free download:%@";
+
+" - NewsBreak age" = " - NewsBreak age";
+
+" Years" = " Years";
+
+" Year" = " Year";
+
+" Months" = " Months";
+
+" Month" = " Month";
+
+" Days" = " Days";
+
+" Day" = " Day";
+
+"Newborn" = "Newborn";
+
+" upvoted your comment" = " upvoted your comment";
+
+" and %li other upvoted your comment" = " and %li other upvoted your comment";
+
+" and %li others upvoted your comment" = " and %li others upvoted your comment";
+
+"Comment deleted · %@" = "Comment deleted · %@";
+
+"Are you sure?" = "Are you sure?";
+
+"If you block this user, you’ll not see any comments from this user in article page." = "If you block this user, you’ll not see any comments from this user in article page.";
+
+"Block user" = "Block user";
+
+"%li New Stories From News Break" = "%li New Stories From News Break";
+
+"You'll See Fewer Stories Like This" = "You'll See Fewer Stories Like This";
+
+"Allow location access\nand Get Started" = "Allow location access\nand Get Started";
+
+"More content coming soon... " = "More content coming soon... ";
+
+"Retry" = "Retry";
+
+"Version %@" = "Version %@";
+
+"Oops, no result has been found" = "Oops, no result has been found";
+
+"(Me)" = "(Me)";
+
+"You will see fewer stories like this" = "You will see fewer stories like this";
+
+"Thank you for reporting this" = "Thank you for reporting this";
+
+"Simple View" = "Simple View";
+
+"Toggle to Simple View for a cleaner reading experience" = "Toggle to Simple View for a cleaner reading experience";
+
+"Web" = "Web";
+
+"Simple" = "Simple";
+
+"Notifications" = "Notifications";
+
+"Messages" = "Messages";
+
+"News" = "News";
+
+"Comments" = "Comments";
+
+"Save Image" = "Guardar imagen";
+
+"More Details" = "More Details";
+
+"Weekly" = "Weekly";
+
+"24 hours next" = "next 24 hours";
+
+"Humidity" = "Humidity";
+
+"Cloud Cover" = "Cloud Cover";
+
+"Chance of Rain" = "Chance of Rain";
+
+"UV Index" = "UV Index";
+
+"Precipitation" = "Precipitation";
+
+"Pressure" = "Pressure";
+
+"Dew Point" = "Dew Point";
+
+"Moon Phases" = "Moon Phases";
+
+"New Moon" = "New Moon";
+
+"Waxing Crescent" = "Waxing Crescent";
+
+"First Quarter" = "First Quarter";
+
+"Waxing Gibbous" = "Waxing Gibbous";
+
+"Full Moon" = "Full Moon";
+
+"Waning Gibbous" = "Waning Gibbous";
+
+"Third Quarter" = "Third Quarter";
+
+"Waning Crescent" = "Waning Crescent";
+
+"Low" = "Low";
+
+"Moderate" = "Moderate";
+
+"High" = "High";
+
+"Very High" = "Very High";
+
+"Extreme" = "Extreme";
+
+"North" = "North";
+
+"North North East" = "North North East";
+
+"North East" = "North East";
+
+"East North East" = "East North East";
+
+"East" = "East";
+
+"East South East" = "East South East";
+
+"South East" = "South East";
+
+"South South East" = "South South East";
+
+"South" = "South";
+
+"South South West" = "South South West";
+
+"South West" = "South West";
+
+"West South West" = "West South West";
+
+"West" = "West";
+
+"West North West" = "West North West";
+
+"North West" = "North West";
+
+"North North West" = "North North West";
+
+"Wind: %.0f mph, %@ " = "Wind: %.0f mph, %@ ";
+
+"Nearest Storm Distance: %.0f %@" = "Nearest Storm Distance: %.0f %@";
+
+"mile" = "mile";
+
+" miles" = " miles";
+
+"Clear Day" = "Clear Day";
+
+"Clear Night" = "Clear Night";
+
+"Cloudy" = "Cloudy";
+
+"Fog" = "Fog";
+
+"Partly Cloudy Day" = "Partly Cloudy Day";
+
+"Partly Cloudy Night" = "Partly Cloudy Night";
+
+"Rain" = "Rain";
+
+"Sleet" = "Sleet";
+
+"Snow" = "Snow";
+
+"Wind" = "Wind";
+
+"Default" = "Default";
+
+"Hide Ad" = "Hide Ad";
+
+"Send Feedback" = "Send Feedback";
+
+"Image saved" = "Image saved";
+
+"Image save failed!" = "Image save failed!";
+
+"Top Comments" = "Top Comments";
+
+"Earlier" = "Earlier";
+
+"French" = "French";
+
+"German" = "German";
+
+"Korean" = "Korean";
+
+"Hindi" = "Hindi";
+
+"Indonesian" = "Indonesian";
+
+"Save success!" = "Save success!";
+
+"Server error, please try again later." = "Server error, please try again later.";
+
+"Network error, please try again later." = "Network error, please try again later.";
+
+"No Internet Connection" = "No Internet Connection";
+
+"Delete your account?" = "Delete your account?";
+
+"Your account will be permanently deleted within 72 hours after we received your e-mail. Please mail : %@ if you’re facing any issue about account deletion" = "Your account will be permanently deleted within 72 hours after we received your e-mail. Please mail : %@ if you’re facing any issue about account deletion";
+
+"Send Deletion Email Request" = "Send Deletion Email Request";
+
+"GDPR NewsBreak Feedback" = "GDPR NewsBreak Feedback";
+
+"Please delete my account." = "Please delete my account.";
+
+"signature:(don't delete)" = "signature:(don't delete)";
+
+"Please Select Your Country:" = "Please Select Your Country:";
+
+"Continue" = "Continue";
+
+"Looks like you already have an account" = "Looks like you already have an account";
+
+"Account exists" = "Account exists";
+
+"Log In with another account" = "Log In with another account";
+
+"Continue with Facebook" = "Continue with Facebook";
+
+"Continue with Google" = "Continue with Google";
+
+"Done" = "Done";
+
+"Your Profile" = "Your Profile";
+
+"Log in or sign up to receive more benefits" = "Log in or sign up to receive more benefits";
+
+"Sign up" = "Sign up";
+
+"Already have an account?" = "Already have an account?";
+
+"Log In" = "Log In";
+
+" or " = " or ";
+
+"log in" = "log in";
+
+" with other account" = " with other account";
+
+"Previously used" = "Previously used";
+
+"Welcome back!" = "Welcome back!";
+
+"PASSWORD" = "PASSWORD";
+
+"Forgot Password?" = "Forgot Password?";
+
+"A link to reset your password has been sent to " = "A link to reset your password has been sent to ";
+
+"Log in or sign up" = "Log in or sign up";
+
+"or" = "or";
+
+"By continuing to use our service, you agree to our Terms of Use and Privacy Policy." = "By continuing to use our service, you agree to our Terms of Use and Privacy Policy.";
+
+"Privacy Policy" = "Privacy Policy";
+
+"Continue with Email" = "Continue with Email";
+
+"Continue as a guest" = "Continue as a guest";
+
+"Finish signing up" = "Finish signing up";
+
+"NAME" = "NAME";
+
+"REENTER PASSWORD" = "REENTER PASSWORD";
+
+"Agree and continue" = "Agree and continue";
+
+"Subscribe to News Break newsletters" = "Subscribe to News Break newsletters";
+
+"By selecting Agree and continue below, I agree News Break's Terms of Use and Privacy Policy" = "By selecting Agree and continue below, I agree News Break's Terms of Use and Privacy Policy";
+
+"PASSWORD (MUST BE AT LEAST 6 CHARACTERS LONG)" = "PASSWORD (MUST BE AT LEAST 6 CHARACTERS LONG)";
+
+"Verify your email" = "Verify your email";
+
+"Resend email" = "Resend email";
+
+"We sent a verification email to " = "We sent a verification email to ";
+
+"Dislike" = "Dislike";
+
+"views" = "views";
+
+"Info" = "Info";
+
+"More Videos" = "More Videos";
+
+"EEEE | MMMM d" = "EEEE | MMMM d";
+
+"allow_tracking_lets" = "\"Allow tracking\" lets News Break to stay free and an independent, local news + information outlet.";
+
+"ads_support_work" = "Ads support News Break’s work in providing the broadest coverage of local and national news.";
+
+"allow_useful_relevant_ads" = "Allow useful, relevant ads.";
+
+"you_can_change_this_in_your_phones_settings_any_time" = "You can change this in your phone’s settings at any time.";
+
+"follower" = "follower";
+
+"followers" = "followers";
+
+"Mute" = "Mute";
+
+"Unmute" = "Unmute";
+
+"The new way to interact with all of your followed accounts" = "The new way to interact with all of your followed accounts";
+
+"Want to know what your favorite accounts are up to? Simply select their message thread to view all of their posts." = "Want to know what your favorite accounts are up to? Simply select their message thread to view all of their posts.";
+
+"Got it!" = "Got it!";
+
+"Next" = "Next";
+
+"SUBSCRIBE_EMAIL_DEFAULT" = "Subscribe to our newsletter today for your local updates, delivered fast and free.";
+
+"Click on the profile icon to access all past stories." = "Click on the profile icon to access all past stories.";
+
+"Got it" = "Got it";
+
+"Toggle the bell to both mute and unmute notifications." = "Toggle the bell to both mute and unmute notifications.";
+
+"It’s empty. You haven’t followed anything yet." = "It’s empty. You haven’t followed anything yet.";
+
+"Go to Discover" = "Go to Discover";
+
+"This account hasn’t posted recently. When they do, you’ll see updates here." = "This account hasn’t posted recently. When they do, you’ll see updates here.";
+
+"Top Stories" = "Top Stories";
+
+"Videos" = "Videos";
+
+"view" = "view";
+
+"See More" = "See More";
+
+"Support Local" = "Support Local";
+
+"Give help to support your favorite local businesses" = "Give help to support your favorite local businesses";
+
+"Block source:" = "Block source:";
+
+"Are you sure you want to block %@?" = "Are you sure you want to block %@?";
+
+"You will see fewer stories on this topic." = "You will see fewer stories on this topic.";
+
+"Stories from %@ will no longer appear in your feed." = "Stories from %@ will no longer appear in your feed.";
+
+"Don't block" = "Don't block";
+
+"Featured" = "Featured";
+
+"Unfollow" = "Unfollow";
+
+"Replies to and likes of your comments will appear here." = "Replies and likes of your comments will appear here.";
+
+"Likes" = "Likes";
+
+"Log in or sign up to comment" = "Log in or sign up to comment";
+
+"From" = "From";
+
+"Ad" = "Ad";
+
+"ad_prefix" = "Ad • %@";
+
+"Search news" = "Search news";
+
+"The latest %@ headlines on %@" = "The latest %@ headlines on %@";
+
+"Article saved to your account." = "Article saved to your account.";
+
+"Read full story" = "Read full story";
+
+"Text" = "Text";
+
+"We couldn’t load this article :(" = "We couldn’t load this article :(";
+
+"Try again" = "Try again";
+
+"WebView Error Description" = "If this problem happens often, please check our {help page}, where you can also submit more details for our team to investigate.";
+
+"Related news" = "Related news";
+
+"onboarding_welcome_title" = "{Welcome} to NewsBreak";
+
+"onboarding_terms_and_policy" = "Tap Ok to agree to NewsBreak’s Terms of Use and Privacy Policy.";
+
+"Terms of Use" = "Terms of Use";
+
+"Log in" = "Log in";
+
+"Let's find your location" = "Let's find your {location}";
+
+"onboarding_welcome_description" = "Get the {local news} you need from trusted publishers, exclusive {original content}, and helpful {community features} for you and your neighbors.";
+
+"Onboarding Privacy Policy" = "Privacy Policy";
+
+"onboarding_locatioin_description" = "Set your {default location}. You can always change this or add more cities later.";
+
+"City or zip code" = "City or zip code";
+
+"Use device location" = "Use device location";
+
+"Switch to {Simple View} for a cleaner reading experience" = "Switch to {Simple View} for a cleaner reading experience";
+
+"Rate in app store" = "Rate in app store";
+
+"Skip for now" = "Skip for now";
+
+"How are we doing?" = "How are we doing?";
+
+"Whether you love NewsBreak or feel there's room for improvement, we want to know." = "Whether you love NewsBreak or feel there's room for improvement, we want to know.";
+
+"Please let us know how we can improve. We're all ears." = "Please let us know how we can improve. We're all ears.";
+
+"We're so glad to hear that! Mind giving us a rating on the App Store to spread the love?" = "We're so glad to hear that! Mind giving us a rating on the App Store to spread the love?";
+
+"Thanks for your feedback!" = "Thanks for your feedback!";
+
+"Was this article worth reading?" = "Was this article worth reading?";
+
+"Your feedback helps us improve the articles shown." = "Your feedback helps us improve the articles shown.";
+
+"Don’t ask me again" = "Don’t ask me again";
+
+"See additional coverage" = "See additional coverage";
+
+"other sources" = "other sources";
+
+"Misinformation" = "Misinformation";
+
+"Explicit content" = "Explicit content";
+
+"Location not relevant" = "Location not relevant";
+
+"will not be displayed in your feed" = "will not be displayed in your feed";
+
+"Not Interested" = "Not Interested";
+
+"Block" = "Block";
+
+"has been blocked" = "has been blocked";
+
+"newsbreak_ios_ads_feedback" = "NewsBreak iOS Ads Feedback";
+
+"improve_ads_suggestion" = "Please let us know how we can improve NewsBreak ads.";
+
+"set_up_email_prompt" = "Restore Mail - Email Account not set up";
+
+"download_mail_app_prompt" = "You clicked a link that requires the \"Mail\" app from the app store. You can download it from the App Store.";
+
+"show_app_in_app_store" = "Show App in App Store";
+
+"location" = "location";
+
+"EmailNotSetUpYetEmail" = "Email is not setup yet!";
+
+"Select Font" = "Select Font";
+
+"Recommend" = "Recommend";
+
+"About" = "About";
+
+"Post" = "Post";
+
+"signedMemo" = "Edit your public profile and info.";
+
+"signingMemo" = "Keep your preferences, articles, and topics saved in your NewsBreak account.";
+
+"Locations" = "Locations";
+
+"LocationMemo" = "Pick your default city or add more locations.";
+
+"0 selected" = "0 selected";
+
+"%d topics" = "%d topics";
+
+"Topics" = "Topics";
+
+"NotificationsMemo" = "Choose what and how often to get alerted.";
+
+"History" = "History";
+
+"HistoryMemo" = "Articles and posts you've read.";
+
+"TopicsMemo" = "Choose from a wide variety of news topics.";
+
+"Saved" = "Saved";
+
+"SavedMemo" = "Articles and posts you saved.";
+
+"Language" = "Language";
+
+"RecommendApp" = "Recommend app to friends & family";
+
+"Rate app" = "Rate app";
+
+"Sign Out" = "Sign Out";
+
+"Push Notification Settings" = "Push Notification Settings";
+
+"Push Notifications" = "Push Notifications";
+
+"LogOutConfirmMemo" = "Are you sure you want to log out?";
+
+"Account" = "Account";
+
+"NICKNAME" = "NICKNAME";
+
+"ProfilePrivateInfoMemo" = "Private info below (only you can see this).";
+
+"EMAIL ADDRESS" = "EMAIL ADDRESS";
+
+"Male" = "Male";
+
+"Female" = "Female";
+
+"Non-binary" = "Non-binary";
+
+"SavingListMemo" = "You haven't saved any stories yet.";
+
+"HistoryListMemo" = "Articles you’ve read will appear here.";
+
+"EnableNotificationMemo" = "Enable notifications here AND in your device settings.";
+
+"Frequency" = "Frequency";
+
+"FrequencyMemo" = "Choose how often to receive news alerts.";
+
+"1 topic" = "1 topic";
+
+"On" = "On";
+
+"Off" = "Off";
+
+"Edit info" = "Edit info";
+
+"Edit photo" = "Edit photo";
+
+"Birthdate" = "Birthdate";
+
+"Gender" = "Gender";
+
+"BIRTHDATE (OPTIONAL)" = "BIRTHDATE (OPTIONAL)";
+
+"GENDER (OPTIONAL)" = "GENDER (OPTIONAL)";
+
+"Changes saved" = "Changes saved";
+
+"Show more" = "Show more";
+
+"Standard" = "Standard";
+
+"People also like" = "People also like";
+
+"LogInWelcomePageMemo" = "Create an account to keep the articles you’ve read or saved, preferences, and access your NewsBreak from anywhere, anytime.";
+
+"LogInWelcomePageTermMemo" = "By continuing, you agree to NewsBreak’s {Terms of Service} and {Privacy Policy}.";
+
+"Not now" = "Not now";
+
+"Show less about:" = "Show less about:";
+
+"minute" = "minute";
+
+"minutes" = "minutes";
+
+"hour" = "hour";
+
+"hours" = "hours";
+
+"Is this article a good recommendation for you?" = "Is this article a good recommendation for you?";
+
+"You can report this article with a reason below" = "You can report this article with a reason below";
+
+"You can report this video with a reason below" = "You can report this video with a reason below";
+
+"Followed by you" = "Followed by you";
+
+"You've followed this account and will see more content from them." = "You've followed this account and will see more content from them.";
+
+"You’ve unfollowed this account." = "You’ve unfollowed this account.";
+
+"Break Rooms" = "Break Rooms";
+
+"My rooms" = "My rooms";
+
+"Join a room to see new posts and easily access it in the Rooms tab. We’ll update Rooms with new functionality like posting soon, so stay tuned!" = "Join a room to see new posts and easily access it in the Rooms tab. We’ll update Rooms with new functionality like posting soon, so stay tuned!";
+
+"member" = "member";
+
+"members" = "members";
+
+"post in this room" = "post in this room";
+
+"posts in this room" = "posts in this room";
+
+"Admin" = "Admin";
+
+"Posts" = "Posts";
+
+"Oops, something went wrong." = "Oops, something went wrong.";
+
+"Swipe left to {IMAGE} Simple view" = "Swipe left to {IMAGE} Simple view";
+
+"A faster and simpler reading view" = "A faster and simpler reading view";
+
+"by" = "by";
+
+"Your rooms are where you and your communities hang out. Join a room and join the discussion!" = "Your rooms are where you and your communities hang out. Join a room and join the discussion!";
+
+"Join" = "Join";
+
+"Joined" = "Joined";
+
+"Write a caption" = "Write a caption";
+
+"Topic" = "Topic";
+
+"required" = "required";
+
+"Please add a location" = "Please add a location";
+
+"Please add a topic" = "Please add a topic";
+
+"Please add a location and topic" = "Please add a location and topic";
+
+"Select a Location" = "Select a Location";
+
+"Find a location" = "Find a location";
+
+"Search" = "Search";
+
+"Post success!" = "Post success!";
+
+"Recommend App Message Body" = "I am using %@ – the #1 local news app used by 45+ million people. Give NewsBreak a try to stay in the know of your local area and neighborhood:";
+
+"You’re all caught up." = "You’re all caught up.";
+
+"Time for a break" = "Time for a break";
+
+"Swipe up and down for more videos" = "Swipe up and down for more videos";
+
+"Oops, seems we haven’t gotten any video in your area." = "Oops, seems we haven’t gotten any video in your area.";
+
+"Vote" = "Vote";
+
+"Check out other rooms" = "Check out other rooms";
+
+"Suggested" = "Suggested";
+
+"You’ve successfully joined" = "You’ve successfully joined";
+
+"Rooms" = "Rooms";
+
+"similar posts are being discussed in the Break Room" = "similar posts are being discussed in the Break Room";
+
+"Hotly discussed" = "Hotly discussed";
+
+"Discover more in" = "Discover more in";
+
+"Discover more trending posts in" = "Discover more trending posts in";
+
+"autoplay_setting_title" = "Autoplay";
+
+"autoplay_setting_subtitle" = "Set your video autoplay preference";
+
+"autoplay_always_on" = "On mobile data and wifi";
+
+"autoplay_wifi_only" = "On wifi-only";
+
+"It’s empty.\n You haven’t joined any rooms yet" = "It’s empty.\n You haven’t joined any rooms yet";
+
+"The author has disabled commenting for this article." = "The author has disabled commenting for this article.";
+
+"BASED ON YOUR GPS LOCATION" = "BASED ON YOUR GPS LOCATION";
+
+"BASED ON YOUR IP LOCATION" = "BASED ON YOUR IP LOCATION";
+
+"SAVED LOCATIONS" = "SAVED LOCATIONS";
+
+"Set as default" = "Set as default";
+
+"No results found. Try a different city or zip code." = "No results found. Try a different city or zip code.";
+
+"Add city or zip code" = "Add city or zip code";
+
+"Confirm Location" = "Confirm Location";
+
+"Yes, that’s correct" = "Yes, that’s correct";
+
+"Community Safety" = "Community Safety";
+
+"Get_local_news_memo" = "Get local news, breaking headlines and emergency alerts by sharing your location.";
+
+"Dismiss" = "Dismiss";
+
+"Follow to comment" = "Follow to comment";
+
+"Follow to comment body" = "This author has limited comments to their followers only to foster more positive discussions. Click follow to comment.";
+
+"Select Your City" = "Select Your City";
+
+"This creator has not posted any content yet" = "This creator has not posted any content yet";
+
+"It\'s empty." = "It\'s empty.";
+
+"You don\'t have any comments yet." = "You don\'t have any comments yet.";
+
+"You don\'t have any likes yet." = "You don\'t have any likes yet.";
+
+"Trending" = "Trending";
+
+"Author" = "Author";
+
+"Author liked" = "Author liked";
+
+"trending toast text" = "Discover the most hotly discussed news and join the conversation in the Trending tab!";
+
+"trending comment cta" = "Discover more trending posts in Trending";
+
+"Profile update error" = "Profile update error";
+
+"Clean history" = "Clean history";
+
+"Clean_history_memo" = "All the articles you read will be removed. Are you sure you want to clear your articles history?";
+
+"Clean now" = "Clean now";
+
+"Clear" = "Clear";
+
+"Remove" = "Remove";
+
+"Not interested in this:" = "Not interested in this:";
+
+"Select the topic you are not intersted in" = "Select the topic you are not intersted in";
+
+"GPS location access is off" = "GPS location access is off";
+
+"Turn on" = "Turn on";
+
+"Couldn’t load your location" = "Couldn’t load your location";
+
+"%@ has been removed from your saved locations." = "%@ has been removed from your saved locations.";
+
+"Find your saved locations here" = "Find your saved locations here";
+
+"You might like this post by a user with similar interest" = "You might like this post by a user with similar interest";
+
+"User Post" = "User Post";
+
+"USE CURRENT LOCATION" = "USE CURRENT LOCATION";
+
+"No more updates" = "No more updates";
+
+"Local News" = "Local News";
+
+"Explore news that impacts your life" = "Explore news that impacts your life";
+
+"Weather Alerts" = "Weather Alerts";
+
+"Get critical information during emergencies" = "Get critical information during emergencies";
+
+"Enable GPS" = "Enable GPS";
+
+"Enter your location" = "Enter your location";
+
+"Copyright © 2022, Particle Media Inc. All rights reserved." = "Copyright © 2022, Particle Media Inc. All rights reserved.";
+
+"Birthday" = "Birthday";
+
+"BIRTHDAY (OPTIONAL)" = "BIRTHDAY (OPTIONAL)";
+
+"Please rate this post" = "Please rate this post";
+
+"Your feedback helps us improve our contents" = "Your feedback helps us improve our contents";
+
+"autoplay_off" = "Never autoplay videos";
+
+"Help center" = "Help center";
+
+"Send feedback" = "Send feedback";
+
+"Send feedback confirmation" = "Did you encounter a problem or have thoughts to share? Please tap the button below to send feedback. Your feedback will help us improve NewsBreak.";
+
+"Turn off shake for feedback" = "Turn off shake for feedback";
+
+"Send feedback description" = "Shake your phone where you see the problem to help us find and fix the issue faster with a screenshot.";
+
+"Shake to send feedback" = "Shake to send feedback";
+
+"Go back and shake your phone" = "Go back and shake your phone";
+
+"Continue to submit feedback now" = "Continue to submit feedback now";
+
+"Receive local crime and safety updates" = "Receive local crime and safety updates";
+
+"COVID-19" = "COVID-19";
+
+"Find local testing sites, health orders and more" = "Find local testing sites, health orders and more";
+
+"Location Not Enabled?" = "Location Not Enabled?";
+
+"Make sure you’ve allowed location access to NewsBreak by opening Settings and checking Location" = "Make sure you’ve allowed location access to NewsBreak by opening Settings and checking Location";
+
+"Settings" = "Settings";
+
+"Choose Your Location" = "Choose Your Location";
+
+"Stay informed with the latest news and updates near you." = "Stay informed with the latest news and updates near you.";
+
+"Choose your location" = "Choose your location";
+
+"Enter a different location" = "Enter a different location";
+
+"Confirm_location_memo" = "Is {%@} your current location?";
+
+"Thanks for your feedback! We’re glad you liked the article." = "Thanks for your feedback! We’re glad you liked the article.";
+
+"Thanks for your feedback! We will keep trying to improve our content." = "Thanks for your feedback! We will keep trying to improve our content.";
+
+"Complete" = "Complete";
+
+"Check Out News Break" = "Check Out News Break";
+
+"Weather Share Message" = "News Break has been a great way for me to check out news, weather, and other local information fast and easily, you should try it too!";
+
+"Long_Distance_memo" = "Looks like your are in {%@}. Would you like to see updates from here?";
+
+"Yes, change my location" = "Yes, change my location";
+
+"Not right now" = "Not right now";
+
+"Failed to get the current location." = "Failed to get the current location.";
