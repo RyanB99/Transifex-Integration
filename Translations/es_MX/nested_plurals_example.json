@@ -1,0 +1,60 @@
+{
+   "string_cars":{
+      "string":"{num_cars, plural, one {Mi familia tiene un {num_cars} automóvil y un barco.} many {Mi familia tiene {num_cars} coches y un barco.} other {Mi familia tiene {num_cars} coches y un barco.}}"
+   },
+   "string_boats":{
+      "string":"{num_boats, plural, one {My family owns 1 car and {num_boats} boat.} other {My family owns 1 car and {num_boats} boats.}}"
+   },  
+
+
+
+
+
+
+   "string_cars_and_boats":{
+      "string":"{num_boats, plural, one {num_cars, plural, un {My family owns {num_cars} coche y un {num_boats} barco.} otros {My family owns {num_cars} coches y un {num_boats} barco.}} many {num_cars, plural, un {My family owns {num_cars} coche y {num_boats} barcos.} otros {My family owns {num_cars} coches y {num_boats} barcos.}} other {num_cars, plural, un {My family owns {num_cars} coche y {num_boats} barcos.} otros {My family owns {num_cars} coches y {num_boats} barcos.}}}"
+   },
+
+
+
+
+
+
+
+   "singular_key":{
+      "string":"Esta es una cadena regular."
+   },
+   "total_files":{
+      "string":"{ file_count, plural, one {Tienes el archivo {file_count}.} many {Tienes archivos {file_count}.} other {Tienes archivos {file_count}.} }",
+      "context":"Contexto adicional:....."
+   },
+   "special_chars":{
+      "string":"{ cnt, plural, one {This is Sam's book.} other {These are Sam's books.} }",
+      "developer_comment":"Esta es una cadena pluralizada con caracteres especiales."
+   },
+   "gold_coins":{
+      "string":"{ cnt, plural, one {Tienes una moneda de oro.} many {Tienes {cnt} monedas de oro.} other {Tienes {cnt} monedas de oro.} \n}",
+      "character_limit":150
+   },
+   "key_1":{
+      "key_nested_1a":{
+         "string":"localizar"
+      },
+      "key_nested_1b":{
+         "key_nested_1ba":{
+            "string":"herramientas de traducción"
+         },
+         "key_nested_1bb":{
+            "string":"{ minute_count, plural, one {minuto} many {{minute_count} minutos} other {{minute_count} minutos} }"
+         }
+      }
+   },
+   "parent_key":{
+      "child_key":{
+         "string":"Esta es una llave de un niño.",
+         "context":"Sustantivo",
+         "developer_comment":"Esto es un comentario.",
+         "character_limit":150
+      }
+   }
+}
