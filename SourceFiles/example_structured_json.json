@@ -1,0 +1,14 @@
+{
+    "TR_LD_TODAY":{
+        "string":"Today",
+        "context":"TODAY is used to label a button and mainly for testing3"
+    },
+    "TR_LD_WEEK":{
+        "string": "Week",
+        "context": "WEEK is used to label a button on the Detail for testing 3"
+    },
+    "TR_LD_PROJECT_ERROR":{
+        "string":"Error loading configuration information.",
+        "context":"Phrase is displayed when the project configuration file cannot be loaded, either to not existing to has an error. This is displayed on a line by itself."
+    }
+}
